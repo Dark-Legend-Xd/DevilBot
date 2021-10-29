@@ -22,7 +22,7 @@ _repolink () {
         echo "aHR0cHM6Ly9naXRodWIuY29tL0RhcmstTGVnZW5kLVhkL0RldmlsVXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
-f
+
 
 start_bot () {
     local zippath
