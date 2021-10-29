@@ -4,12 +4,12 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $D3VIL_REPO == "D3vilBot" ]]
+    if [[ $D3VIL_REPO == "Devilbot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $D3VIL_REPO == "D3vilbot" ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0RhcmstTGVnZW5kLVhkL0RldmlsVXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    elif [[ $D3VIL_REPO == "Devilbot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0RhcmstTGVnZW5kLVhkL0RldmlsVXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $D3VIL_REPO =~ $regex ]]
     then
         if [[ $D3VIL_REPO_BRANCH ]]
@@ -19,14 +19,14 @@ _repolink () {
             echo "${D3VIL_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0RhcmstTGVnZW5kLVhkL0RldmlsVXNlcmJvdC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
 
 
 start_bot () {
     local zippath
-    zippath="myd3vilbot.zip"
+    zippath="mydevilbot.zip"
     echo "  Downloading source code ..."
     wget -q $(_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -36,7 +36,7 @@ start_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $D3VILPATH
-    echo "  • Starting D3vilBot •  "
+    echo "  • Starting DevilBot •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     python3 -m d3vilbot
