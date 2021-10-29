@@ -1,7 +1,7 @@
-FROM TEAM-D3VIL/D3vilBot:latest
+FROM Dark-Legend-Xd/DevilBot:latest
 
 #clonning repo 
-RUN git clone https://github.com/D3KRISH/D3vilUserbot.git /root/hellbot
+RUN git clone https://github.com/Dark-Legend-Xd/DevilUserbot.git /root/hellbot
 
 #working directory 
 WORKDIR /root/d3vilbot
