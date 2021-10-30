@@ -11,8 +11,6 @@
 - 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 𝙷𝚎𝚛𝚘𝚔𝚞.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Legend-Xd/DevilBot)
 
- <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Dark-Legend-Xd/DevilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
 ----
 ### 𝐃E𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
 
@@ -21,3 +19,4 @@
 
 - [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@Dark-Legend/Devil-Userbot#main.py)
 `bash start.sh`
+#Devil_op
