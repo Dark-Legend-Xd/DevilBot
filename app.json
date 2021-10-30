@@ -106,7 +106,7 @@
     },
     "YOUR_CHANNEL": {
       "description": "Fill your channel username(without @) to get this displayed on your D3VIL Alive.",
-      "value": "",
+      "value": "@Devil_Us3rb0t",
       "required": false
     },
     "YOUR_GROUP": {
@@ -116,7 +116,7 @@
     },
     "SUDO_USERS": {
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
-      "value": "@Devil_us3rb0t",
+      "value": "",
       "required": false
     },
     "ASSISTANT":{
