@@ -1,7 +1,7 @@
 {
-  "name": "𝔇3vιℓвσт",
-  "description": "𝔇3𝔳𝔦𝔩𝔅𝔬𝔱 is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.this userbot made by ©Team D3vil & @D3_krish",
-  "logo": "https://telegra.ph/file/ad8abbfbcb2f93f91b10f.jpg ",
+  "name": "∂єνιℓвσт",
+  "description": "∂єνιℓвσт is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.this userbot made by ©Team Devil & @pro_error_xd",
+  "logo": "https://te.legra.ph/file/d00debd13f5b180af717f.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
-  "website": "https://github.com/D3KRISH/",
-  "success_url": "https://t.me/D3VIL_SUPPORT",
+  "repository": "https://github.com/Dark-Legend-Xd/DevilBot",
+  "website": "https://github.com/Dark-legend-xd/",
+  "success_url": "https://t.me/Devilbot_chat",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,7 +21,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is 𝔡3𝔳𝔦𝔩",
-      "value": "『ȶꭉᶏꬺ ɖ3ⱱᶖȴ』",
+      "value": "『тєαм ∂єνιℓ』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -78,7 +78,7 @@
       "value": ""
     },
     "D3VILBOT_SESSION": {
-      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
+      "description": "Get this value by using repl or termux.https://replit.com/@Dark-Legend/Devil-Userbot#main.py.",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -111,12 +111,12 @@
     },
     "YOUR_GROUP": {
       "description": "Fill your group username(without @) to get this displayed on your D3VIL Alive.",
-      "value": "",
+      "value": "@DevilBot_chat",
       "required": false
     },
     "SUDO_USERS": {
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
-      "value": "",
+      "value": "@Devil_us3rb0t",
       "required": false
     },
     "ASSISTANT":{
