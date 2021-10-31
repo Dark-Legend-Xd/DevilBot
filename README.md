@@ -43,7 +43,7 @@
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
+- Your DevilBot Session Will be saved in your Telegram Saved Message.
 - [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Dark-Legend/Devil-Userbot#main.py) 
 
 
