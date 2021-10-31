@@ -77,7 +77,7 @@
       "description": "Create a private channel. And get it's id from @ShowJsonBot and paste here. Value should start with -100",
       "value": ""
     },
-    "D3VILBOT_SESSION": {
+    "DEVILBOT_SESSION": {
       "description": "Get this value by using repl or termux.https://replit.com/@Dark-Legend/Devil-Userbot#main.py.",
       "value": ""
     },
