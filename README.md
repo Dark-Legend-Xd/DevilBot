@@ -1,22 +1,24 @@
 <h1 align="center">
-  <b>𝒯𝒽ℯ 𝒟ℯ𝓋𝒾𝓁ℬℴ𝓉</b>
+  <b>𝐃𝐞𝐯𝐢𝐥 𝐔𝐬𝐞𝐫𝐁𝐨𝐭🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/d00debd13f5b180af717f.jpg" alt=D3KRISH">
+  <img src="https://telegra.ph/file/b395eda3972e00c29e45b.jpg" alt="The DevilBot">
 </p>
 
+<h6 align="center">
+  <b>⚡ Ꝉҽցҽղժąɾվ ȺƑ ᎠҽѵìӀβօէ ⚡</b>
+</h6>
 
-## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 
-- 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 𝙷𝚎𝚛𝚘𝚔𝚞.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Legend-Xd/DevilBot)
+<h3 align="center">
+  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+</h3>
 
-----
-### 𝐃E𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
-
-- 𝙾𝚙𝚎𝚗 𝚁𝚎𝚙𝚕 𝙻𝚒𝚗𝚔.
-- 𝚈𝚘𝚞𝚛𝚢 D3𝚟𝚒𝚕𝙱𝚘𝚝 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝚆𝚒𝚕𝚕 𝚋𝚎 𝚜𝚊𝚟𝚎𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚂𝚊𝚟𝚎𝚍 𝙼𝚎𝚜𝚜𝚊𝚐𝚎.
-
-- [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@Dark-Legend/Devil-Userbot#main.py)
-`bash start.sh`
-#Devil_op
+------
+[![GitHub forks](https://img.shields.io/github/forks/Dark-Legend-Xd/DevilBot?&style=flat-square&logo=github)](https://github.com/Dark-Legend-Xd/DevilBot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/Dark-Legend-Xd/DevilBot?&style=flat-square&logo=github)](https://github.com/Dark-Legend-Xd/DevilBot/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/Dark-Legend-Xd/DevilBot?&style=flat-square&logo=github)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/Dark-Legend-Xd/DevilBot?&style=flat-square&logo=github)](https://github.com/Dark-Legend-Xd/DevilBot/blob/master/LICENSE)
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+![GitHub language count](https://img.shields.io/github/languages/count/Dark-Legend-Xd/DevilBot?color=Pink&label=Language&style=flat-square)
