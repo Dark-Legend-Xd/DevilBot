@@ -44,7 +44,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@Dark-Legend/Devil-Userbot#main.py)
+- [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Dark-Legend/Devil-Userbot#main.py) 
 
 
 
